@@ -4,6 +4,7 @@ This directory contains GTFS Realtime Specification and documentation.
 - [GTFS Realtime protocol buffer definition](proto/gtfs-realtime.proto)
 - Documentation
   - [English](spec/en)
-  - [Español](spec/es)
+  - [Thai](spec/th)
+
 - [How to change the specification?](CHANGES.md)
 
